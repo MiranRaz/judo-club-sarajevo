@@ -38,7 +38,7 @@ const Home = ({ data, location }) => {
               uzraste, od početnika do stručnjaka.
             </p>
             <p>
-              Judo klub Sarajevo je osnovan 20xx godine, naš dojo se nalazi samo
+              Judo klub Sarajevo je zvanično osnovan 2008 godine, naš dojo se nalazi samo
               dvije minute hoda od novog Sarajevo Tower-a. Naš klub nudi niz
               pristupačnih časova za sve starosne grupe, od 5 pa nadalje, s
               bogatim naslijeđem naših osnivača sa preko 20 godina iskustva.
