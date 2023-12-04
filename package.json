@@ -1,5 +1,6 @@
 {
   "name": "gatsby-starter-blog",
+  "homepage": "https://judoclubsarajevo.com/",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
@@ -33,7 +34,6 @@
   "devDependencies": {
     "prettier": "^2.8.8"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
   ],
